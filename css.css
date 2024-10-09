@@ -1,6 +1,19 @@
-tr{
+td{
     border: 2px solid black;
+}
+th{
+    border: 2pc solid black;
 }
 table{
     border: 2px solid black;
+}
+.title{
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #fff;
+}
+.category{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
